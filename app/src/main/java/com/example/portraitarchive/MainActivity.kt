@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
             PortraitArchiveTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-                    Greeting("Ha Quach Vinh Khanwdg NGU")
+                    Greeting("Ha Quach xin chao Vinh Khang ngu")
                 }
             }
         }
